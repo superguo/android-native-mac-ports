@@ -1,0 +1,4 @@
+#pragma once
+
+#cmakedefine HAVE_KQUEUE @HAVE_KQUEUE@
+#cmakedefine HAVE_EPOLL @HAVE_EPOLL@
